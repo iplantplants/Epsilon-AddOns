@@ -1,0 +1,10 @@
+## Interface: 70300
+## Title: rossTest
+## Version: 1
+## Notes: triple tap spaceBar to fly
+## Author: gay
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: toggleFly 
+Main.lua
+
+
