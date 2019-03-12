@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: a circle
+## Version: 1
+## Notes: Adds useful Hyperlinks to the chat.
+## Author: Graydon
+## DefaultState: Enabled
+Main.lua
+
+
