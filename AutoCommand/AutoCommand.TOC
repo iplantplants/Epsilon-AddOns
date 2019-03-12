@@ -1,0 +1,9 @@
+## Interface: 60200
+## Title: AutoCommand
+## Version: 1
+## Notes: automatically executes commands upon login
+## Author: Graydon
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: commands, ACinterval, ACstate
+main.lua
+hyperlinks.lua
