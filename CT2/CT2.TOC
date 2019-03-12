@@ -1,0 +1,8 @@
+## Interface: 60200
+## Title: ColourText2
+## Version: 1.1
+## Notes: Colour text and now u can link phases
+## Author: Grandmaster Pa
+## DefaultState: Enabled
+main.lua
+URLs.lua
